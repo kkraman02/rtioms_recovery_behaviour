@@ -1,0 +1,7 @@
+<library path="lib/librtioms_recovery_behaviors">
+  <class name="rtioms_recovery_behaviors/RtiomsRecoveryBehaviors" type="rtioms_recovery_behaviors::RtiomsRecoveryBehaviors" base_class_type="nav_core::RecoveryBehavior">
+    <description>
+      A recovery behavior that performs a backward motion to attempt to clear out space.
+    </description>
+  </class>
+</library>
